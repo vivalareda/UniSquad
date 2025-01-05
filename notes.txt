@@ -1,0 +1,6 @@
+Selon discord clone le call de initial-profile.ts se fait dans une page a part,
+pour le projet, les etapes sont
+
+1. Sign up
+2. Rediriger vers une page setup qui fait le check du user et le redirige si il a un serveur assigne
+3. Sinon, on render le modal
