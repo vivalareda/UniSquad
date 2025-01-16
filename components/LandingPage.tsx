@@ -66,7 +66,7 @@ export default function LandingPage() {
                 </h2>
                 <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400 pt-8">
                   Évitez les mauvaises notes en trouvant de mauvais coéquipiers
-                  et rejoignez UniSquad aujourd'hui!
+                  et rejoignez UniSquad!
                 </p>
               </div>
               <div className="pt-5">
